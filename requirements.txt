@@ -1,2 +1,7 @@
+pytest
+pytest-cov
+requests
+httpx
+fastapi
 fastapi
 uvicorn
